@@ -1,0 +1,16 @@
+{
+  "name": "surfgreen-starter",
+  "version": "1.0.0",
+  "description": "Get started with Surfgreen, a really simple tool for making HTML sites",
+  "main": "./index.js",
+  "scripts": {
+    "start": "SURFGREEN_ACTION=start_server node ./surfgreen.js",
+    "build": "SURFGREEN_ACTION=build node ./surfgreen.js"
+  },
+  "author": "Austin Heller",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "surfgreen": "^5.0.2"
+  }
+}

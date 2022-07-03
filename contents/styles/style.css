@@ -1,0 +1,8 @@
+@import 'reboot.css';
+
+#site-wrapper {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2rem 1rem;
+}
