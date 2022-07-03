@@ -1,0 +1,48 @@
+$url_prefix: './assets/fonts/advent-symbols';
+
+@font-face {
+   font-family: "Advent Symbols";
+   font-style: normal;
+   font-weight: 400;
+   src: url('#{$url_prefix}/AdventSymbols-Sharp.woff');
+}
+
+.adv-icon {
+   font-family: "Advent Symbols";
+   font-style: normal;
+   font-weight: 400;
+}
+
+/* Icon classes */
+
+$icons: (
+   'menu': '\F000',
+   'close': '\F001',
+   'arrow-down': '\F002',
+   'arrow-up': '\F003',
+   'arrow-left': '\F004',
+   'arrow-right': '\F005',
+   'caret-down': '\F012',
+   'caret-up': '\F013',
+   'caret-left': '\F014',
+   'caret-right': '\F015',
+   'caret-up-down': '\F016',
+   'play': '\F101',
+   'pause': '\F102',
+   'back-15': '\F110',
+   'forward-15': '\F111',
+   'twitter': '\F201',
+   'instagram': '\F202',
+   'newsletter': '\F203',
+   'adv-logo': '\F600',
+   'adv-iconmark-open': '\F601',
+   'adv-iconmark-solid': '\F602',
+   'adv-calendar': '\F603',
+   'snowflakes': '\F604'
+);
+
+@each $icon_name, $icon_code in $icons {
+   .adv-icon.#{$icon_name}:after {
+      content: '#{$icon_code}';
+   }
+}
