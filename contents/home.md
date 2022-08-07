@@ -3,9 +3,17 @@ id: home
 
 ~~~
 
+<div id="home-intro">
+
 # 24 days of art for good.
 
 The Advent Project is an online multimedia calendar that unlocks a new piece of bite-sized art every day for 24 days in December. All proceeds benefit a worthy cause, selected in collaboration with our artists.
+
+</div>
+
+
+
+<div id="home-pitch">
 
 ## Submit your pitch to this year's calendar.
 
@@ -14,6 +22,12 @@ We're now accepting pitches to the 2022 calendar. If you're an artist of any str
 <a href="{{siteBase}}/pitch">Submit an idea!</a>
 
 If selected, you'll turn your idea into reality this fall, and your piece will be viewed by the hundreds of donors who tune into The Advent Project every year. On top of that, you'll get to vote on the recipient of this year's donations.
+
+</div>
+
+
+
+<div id="partners">
 
 ## Art for social and environmental justice.
 
@@ -42,6 +56,12 @@ Since our first calendar in 2019, The Advent Project has raised over $X for nonp
 	</li>
 </ul>
 
+</div>
+
+
+
+<div id="previous-projects">
+
 ## Previous Calendars
 
 <ul>
@@ -52,3 +72,5 @@ Since our first calendar in 2019, The Advent Project has raised over $X for nonp
 </ul>
 
 <p id="faq-line">Questions? <a href="{{siteBase}}/faq">We have answers.</a></p>
+
+</div>

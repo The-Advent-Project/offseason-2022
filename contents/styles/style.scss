@@ -1,4 +1,5 @@
-@import 'reboot.scss';
+@import 'bootstrap-reboot';
+@import 'bootstrap-grid';
 @import '../assets/fonts/mallory/mallory-compact';
 @import '../assets/fonts/advent-symbols/advent-symbols';
 
@@ -7,12 +8,14 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+/*
 #site-wrapper {
 	max-width: 1140px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 2rem 1rem;
 }
+*/
 
 article#pitch {
 	h1 {
@@ -49,6 +52,7 @@ article#pitch {
 	}
 }
 
+/*
 @media (min-width: 701px) {
 	#pitch-content {
 		display: flex;
@@ -60,6 +64,11 @@ article#pitch {
 			flex-basis: 40%;
 		}
 	}
+}
+*/
+
+a {
+	text-decoration: none;
 }
 
 [data-expandable] {
@@ -73,4 +82,57 @@ article#pitch {
 		cursor: pointer;
 		text-decoration: underline;
 	}
+}
+
+.screen-reader-only {
+	visibility: hidden;
+	position: absolute;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+}
+
+#site-header {
+	padding-top: 2rem;
+	margin-bottom: 2rem;
+	max-width: 1280px;
+}
+
+#header-logo {
+	font-size: 4rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 95px;
+	height: 95px;
+	border-radius: 100px;
+	border: 1px solid #ddd;
+}
+
+.social-links {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	li {
+		list-style: none;
+		padding: 0;
+		a {
+			display: block;
+			margin-right: 2rem;
+			font-size: 2.4rem;
+		}
+	}
+}
+
+#site-footer {
+	margin-bottom: 2rem;
+	position: relative;
+}
+
+#footer-logo {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: -1rem;
+	font-size: 3.4rem;
 }

@@ -9,6 +9,7 @@ Last year, we raised $X for Grassroots Global Justice Alliance, which was made p
 
 Questions? We have answers:
 
+
 ### What makes an Advent Project piece?
 
 An ideal Advent Project piece is
@@ -22,23 +23,28 @@ We particularly love work that is cross-media, collaborative, and reflective of 
 
 If this sounds like a good home for the tiny piece of weird and/or wonderful art that's been living in the back of your brain, please tell us about it below.
 
+
 ### Where do the proceeds of the calendar go?
 
 All proceeds from sales of the calendar go to the charity that is chosen in collaboration with our artists. If you choose to participate, thank you in advance for donating your time and your art.
+
 
 ### Who creates the piece?
 
 You do! But if your pitch is selected, you'll be paired with an editor who can answer creative and technical questions, and help you get your piece over the finish line.
 
+
 ### If my pitch is accepted, do I maintain ownership of my final work?
 
 **Yes**. You will always retain rights to work you make for the calendar. (And any pitch you submit also remains yours, even if you don't make it with us.)
+
 
 ### I have a rough idea, but it's not complete. Should I still pitch?
 
 Don't worry about having a whole project mapped out yet—a short premise is all you need to pitch. Some of our favorite pieces started as nothing more than a couple sentences. For example: *A holiday-themed comedy meditation track. Maybe with festive sound effects sprinkled in?*
 
 But it also helps if you send us your thoughts, dreams, work samples, mood boards, whatever will help us understand who you are and what you're interested in making. We'll ask questions as needed to help you draw out your idea and see if it's a good fit for this year's Advent Project.
+
 
 ### I'm having trouble filling out this form.
 

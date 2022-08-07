@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>{{title}}</title>
+		<title>
+			{{#if id === "home"}}
+			{{title}} – 24 days of art for good
+			{{#else}}
+			{{title}} – The Advent Project
+			{{/if}}
+		</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="{{siteBase}}/style.min.css">
 	</head>
 	<body>
-	<header id="site-header">
-		<nav>
-			<a href="{{siteBase}}" id="header-logo">	
-				<span>The Advent Project</span>
-			</a>
-			<ul id="social-header" class="social-links">
-				<li><a href="https://instagram.com/adventproj"><span>Instagram</span></a></li>
-				<li><a href="https://subscribe.adventproject.org"><span>Subscribe</span></a></li>
+	<header id="site-header" class="container">
+		<nav class="row justify-content-between">
+			<div class="col-2">
+				<a href="{{siteBase}}" id="header-logo">	
+					<i class="adv-icon adv-logo"></i>
+				</a>
+			</div>
+			<!--
+			<ul id="social-header" class="social-links col-4">
+				<li><a href="https://instagram.com/adventproj"><i class="adv-icon instagram"></i><span class="screen-reader-only">Instagram</span></a></li>
+				<li><a href="https://subscribe.adventproject.org"><i class="adv-icon newsletter"></i><span class="screen-reader-only">Subscribe</span></a></li>
 			</ul>
+			-->
 		</nav>
 	</header>
