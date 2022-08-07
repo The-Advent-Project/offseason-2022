@@ -7,8 +7,7 @@ id: pitch
 
 Last year, we raised $X for Grassroots Global Justice Alliance, which was made possible by the artists who donated 24 pieces of brand-new, bite-sized multimedia art. And this year, you could be one of those artists!
 
-Questions? We have answers:
-
+## Questions
 
 ### What makes an Advent Project piece?
 
