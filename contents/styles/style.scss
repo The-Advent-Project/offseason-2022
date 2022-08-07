@@ -8,8 +8,69 @@ body {
 }
 
 #site-wrapper {
-	max-width: 600px;
+	max-width: 1140px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 2rem 1rem;
+}
+
+article#pitch {
+	h1 {
+		margin-bottom: 1rem;
+		font-weight: 700;
+		font-size: 2.7rem;
+	}
+	h4 {
+		margin-bottom: 1rem;
+		line-height: 1.3;
+	}
+}
+
+#pitch-form {
+	h4 {
+		margin-bottom: 1rem;
+		font-style: italic;
+		font-size: 1.2rem;
+	}
+	.tf-v1-widget iframe {
+		border-width: 2px !important;
+		border-style: solid !important;
+		border-color: #eee !important;
+		border-radius: 0 !important;
+	}
+}
+
+#pitch-text {
+	margin-bottom: 3rem;
+	h3 {
+		font-size: 1.1rem;
+		font-weight: 700;
+		margin-top: 2rem;
+	}
+}
+
+@media (min-width: 701px) {
+	#pitch-content {
+		display: flex;
+		#pitch-form {
+			flex-basis: 60%;
+			margin-left: 4rem;
+		}
+		#pitch-text {
+			flex-basis: 40%;
+		}
+	}
+}
+
+[data-expandable] {
+	&.hidden {
+		display: none;
+	}
+}
+
+[data-expand-toggle] {
+	&:hover {
+		cursor: pointer;
+		text-decoration: underline;
+	}
 }

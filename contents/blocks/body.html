@@ -1,8 +1,15 @@
 <div id="site-wrapper">
-	<article>
+	<article id="{{id}}">
 		{{#if id !== "home"}}
-		<h1>{{title}}</h1>
+			<h1>{{title}}</h1>
 		{{/if}}
-		{{content}}
+		{{#if id === "pitch"}}
+			<div id="pitch-content">
+				<div id="pitch-text" data-auto-expand="yes" data-expand-selector="h3">
+					{{content}}
+				</div>
+				{{#pitch-form}}
+			</div>
+		{{/if}}
 	</article>
 </div>
