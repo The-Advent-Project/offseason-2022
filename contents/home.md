@@ -1,37 +1,59 @@
 title: The Advent Project
 id: home
+texture: texture-02
 
 ~~~
 
 <div id="home-intro">
-
-# 24 days of art for good.
+<div class="container">
+<div class="row justify-content-center justify-content-lg-between">
+<div class="col col-12 col-md-11 col-lg-5">
+<h1>
+<span>24 days of art</span> <span>for good.</span>
+</h1>
 
 The Advent Project is an online multimedia calendar that unlocks a new piece of bite-sized art every day for 24 days in December. All proceeds benefit a worthy cause, selected in collaboration with our artists.
 
 </div>
 
+<div class="col col-12 col-md-11 col-lg-6">
+<iframe src="https://player.vimeo.com/video/587029521?h=ab2c6c2c4f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="180" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Meet The Advent Project"></iframe>
+</div>
+
+</div>
+</div>
+</div>
+
 
 
 <div id="home-pitch">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col col-md-11 col-lg-9">
 
-## Submit your pitch to this year's calendar.
+## Artists: let's make something together.
 
-We're now accepting pitches to the 2022 calendar. If you're an artist of any stripe (and your work can be viewed online), we encourage you to submit a brief idea for a piece of bite-sized, wintry art you could make.
+We're now accepting pitches for the 2022 calendar. If you're an artist of any stripe (and your work can be viewed online), we encourage you to submit a brief idea for a piece of bite-sized, wintry art you could make.
 
-<a href="{{siteBase}}/pitch">Submit an idea!</a>
+<a class="submit" href="{{siteBase}}/pitch"><span>★</span> Submit an idea</a>
 
 If selected, you'll turn your idea into reality this fall, and your piece will be viewed by the hundreds of donors who tune into The Advent Project every year. On top of that, you'll get to vote on the recipient of this year's donations.
 
+</div>
+</div>
+</div>
 </div>
 
 
 
 <div id="partners">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col col-md-11 col-lg-9">
 
-## Art for social and environmental justice.
+## Raising money for causes that matter.
 
-Since our first calendar in 2019, The Advent Project has raised over $X for nonprofit organizations dedicated to social and environmental justice.
+Since our first calendar in 2019, The Advent Project has raised over $9,000 for nonprofit organizations dedicated to social and environmental justice.
 
 ### We've been honored to work with a few outstanding organizations, including:
 
@@ -57,10 +79,15 @@ Since our first calendar in 2019, The Advent Project has raised over $X for nonp
 </ul>
 
 </div>
-
+</div>
+</div>
+</div>
 
 
 <div id="previous-projects">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col col-md-11 col-lg-9">
 
 ## Previous Calendars
 
@@ -71,6 +98,7 @@ Since our first calendar in 2019, The Advent Project has raised over $X for nonp
 	<li><a href="https://2021.adventproject.org">2021 Calendar</a></li>
 </ul>
 
-<p id="faq-line">Questions? <a href="{{siteBase}}/faq">We have answers.</a></p>
-
+</div>
+</div>
+</div>
 </div>
