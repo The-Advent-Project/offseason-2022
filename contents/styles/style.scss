@@ -32,6 +32,7 @@
 	border-bottom-width: 2.5px;
 	border-bottom-style: solid;
 	color: #222;
+	font-weight: 700;
 }
 
 html {
@@ -151,6 +152,12 @@ a {
 #site-footer {
 	margin-bottom: 1.5rem;
 	position: relative;
+	a {
+		color: #337083;
+		&:hover {
+			color: #ec557f;
+		}
+	}
 }
 
 #footer-logo {
