@@ -35,7 +35,7 @@ The Advent Project is an online multimedia calendar that unlocks a new piece of 
 
 We're now accepting pitches for the 2022 calendar. If you're an artist of any stripe (and your work can be viewed online), we encourage you to submit a brief idea for a piece of bite-sized, wintry art you could make.
 
-<a class="submit" href="{{siteBase}}/pitch"><span>★</span> Submit an idea</a>
+<a class="submit button" href="{{siteBase}}/pitch"><span>★</span> Submit an idea</a>
 
 If selected, you'll turn your idea into reality this fall, and your piece will be viewed by the hundreds of donors who tune into The Advent Project every year. On top of that, you'll get to vote on the recipient of this year's donations.
 
@@ -46,7 +46,7 @@ If selected, you'll turn your idea into reality this fall, and your piece will b
 
 
 
-<div id="partners">
+<div id="home-partners">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col col-md-11 col-lg-9">
@@ -55,27 +55,33 @@ If selected, you'll turn your idea into reality this fall, and your piece will b
 
 Since our first calendar in 2019, The Advent Project has raised $9,158 for nonprofit organizations dedicated to social and environmental justice.
 
-### We've been honored to work with a few outstanding organizations, including:
+**We've been honored to work with:**
 
 <ul id="previous-recipients">
-	<li>
-		<a href="https://ggjalliance.org/our-work/global-wellbeing/">
-			<img src="" alt="Grassroots Global Justice Alliance logo">
-			<span>Grassroots Global Justice Alliance</span>
-		</a>
-	</li>
-	<li>
-		<a href="https://www.communityjusticeexchange.org">
-			<img src="" alt="Community Justice Exchange logo">
-			<span>Community Justice Exchange</span>
-		</a>
-	</li>
-	<li>
-		<a href="https://youthlaw.org">
-			<img src="" alt="National Center for Youth Law logo">
-			<span>National Center for Youth Law</span>
-		</a>
-	</li>
+<li>
+	<a href="https://ggjalliance.org/our-work/global-wellbeing/">
+		<img src="{{siteBase}}/assets/ggj-logo.png" alt="Grassroots Global Justice Alliance logo">
+		<span>Grassroots Global Justice Alliance</span>
+	</a>
+</li>
+<li>
+	<a href="https://www.communityjusticeexchange.org">
+		<img src="{{siteBase}}/assets/cje-logo.png" alt="Community Justice Exchange logo">
+		<span>Community Justice Exchange</span>
+	</a>
+</li>
+<li>
+	<a href="https://artistrelieftree.com">
+		<img src="{{siteBase}}/assets/art-logo.png" alt="Artist Relief Tree logo">
+		<span>Artist Relief Tree</span>
+	</a>
+</li>
+<li>
+	<a href="https://youthlaw.org">
+		<img src="{{siteBase}}/assets/nycl-logo.png" alt="National Center for Youth Law logo">
+		<span>National Center for Youth Law</span>
+	</a>
+</li>
 </ul>
 
 </div>
@@ -84,18 +90,48 @@ Since our first calendar in 2019, The Advent Project has raised $9,158 for nonpr
 </div>
 
 
-<div id="previous-projects">
+<div id="home-projects">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col col-md-11 col-lg-9">
 
-## Previous Calendars
+## Past Projects
 
 <ul>
-	<li><a href="https://2019.adventproject.org">2019 Calendar</a></li>
-	<li><a href="https://stayhome.adventproject.org">Stay Home</a></li>
-	<li><a href="https://2020.adventproject.org">2020 Calendar</a></li>
-	<li><a href="https://2021.adventproject.org">2021 Calendar</a></li>
+
+<li>
+<a id="calendar-2021" href="https://2021.adventproject.org">
+<figure>
+<img src="{{siteBase}}/assets/card-2021-icon.png" alt="The 2021 Advent Project">
+</figure>
+<span>2021 Calendar</span>
+</a>
+</li>
+
+<li>
+<a id="calendar-2020" href="https://2020.adventproject.org">
+<figure>
+<img src="{{siteBase}}/assets/card-2020-icon.png" alt="The 2020 Advent Project">
+</figure>
+<span>2020 Calendar</span>
+</a>
+</li>
+
+<li>
+<a id="stay-home" href="https://stayhome.adventproject.org">
+<span>Stay Home</span>
+</a>
+</li>
+
+<li>
+<a id="calendar-2019" href="https://2019.adventproject.org">
+<figure>
+<img src="{{siteBase}}/assets/card-2019-icon.png" alt="The 2019 Advent Project">
+</figure>
+<span>2019 Calendar</span>
+</a>
+</li>
+
 </ul>
 
 </div>
