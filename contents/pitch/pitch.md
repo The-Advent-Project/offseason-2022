@@ -40,9 +40,9 @@ If you are an artist who has not previously created work for the calendar, we wi
 
 * Your name
 * The media type for your idea (sound, visual art, interactive, etc.)
-* A 2-3 sentence summary of what you intend to make
+* A 2–3 sentence summary of what you intend to make
 * A summary of your creative background or links to your other work 
-* Any samples that would give us a better sense of what you’re going for (optional upload)
+* Any samples that would give us a better sense of what you’re going for *(optional upload)*
 
 ### If my pitch is accepted, who creates the piece?
 
@@ -53,7 +53,7 @@ You do! So make sure that what you’re pitching is something you (or you and yo
 
 * **September 5:** Pitch submissions close
 * **September 11:** All artists notified 
-* **September 25:** Detailed outline due (new artists only)
+* **September 25:** Detailed outline due *(new artists only)*
 * **October 9:** First draft due
 * **November 6:** Second draft due
 * **November 16:** Final draft due
@@ -75,12 +75,12 @@ Don't worry about having every detail of a project mapped out yet, just an idea 
 
 You sure can! Here’s just a few:
 
-* *[West Xmas](https://2019.adventproject.org/west-xmas/?unlock=advent_sample): a song by Fire Chief Charlie*
-* *[Let it Snow](https://adventproject.org/2021/let-it-snow/): a game by Miden Wood*
-* *[it's nothing really](https://2019.adventproject.org/its-nothing-really/?validate=true): a poem by joolz*
-* *[Corpsatomic](https://2020.adventproject.org/corpsatomic/?key=advent_sample): a series of cards by Amy Carver and 210*
-* *[Snowshoes](https://2020.adventproject.org/snowshoes/) : a short film by Kasey Waas*
-* *[Razzle Dazzle Holiday Spirit](https://2019.adventproject.org/razzle-dazzle-holiday-spirit/?validate=true) : a radio special by Werner & Markovich*
+* *[West Xmas](https://2019.adventproject.org/west-xmas/?unlock=advent_sample)*: a song by Fire Chief Charlie
+* *[Let it Snow](https://adventproject.org/2021/let-it-snow/)*: a game by Miden Wood
+* *[it's nothing really](https://2019.adventproject.org/its-nothing-really/?validate=true)*: a poem by joolz
+* *[Corpsatomic](https://2020.adventproject.org/corpsatomic/?key=advent_sample)*: a series of cards by Amy Carver and 210
+* *[Snowshoes](https://2020.adventproject.org/snowshoes/)*: a short film by Kasey Waas
+* *[Razzle Dazzle Holiday Spirit](https://2019.adventproject.org/razzle-dazzle-holiday-spirit/?validate=true)*: a radio special by Werner & Markovich
 
 
 

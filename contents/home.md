@@ -33,11 +33,11 @@ The Advent Project is an online multimedia calendar that unlocks a new piece of 
 
 ## Artists: let's make something together.
 
-We're now accepting pitches for the 2022 calendar. If you're an artist of any stripe (and your work can be viewed online), we encourage you to submit a brief idea for a piece of bite-sized, wintry art you could make.
+We're now accepting pitches for the 2022 calendar. If you're an artist of any stripe (and your work can be viewed online), we encourage you to submit a brief idea for a piece of bite-sized, wintry art you could make. Anyone who submits a pitch gets to vote for the category of charity we will support with this year's calendar!
 
 <a class="submit button" href="{{siteBase}}/pitch"><span>★</span> Submit an idea</a>
 
-If selected, you'll turn your idea into reality this fall, and your piece will be viewed by the hundreds of donors who tune into The Advent Project every year. On top of that, you'll get to vote on the recipient of this year's donations.
+If selected, you'll turn your idea into reality this fall, and your work will be viewed by the hundreds of donors who tune into The Advent Project every December. On top of that, you'll get to vote to choose the specific charity that will receive all the calendar proceeds. 
 
 </div>
 </div>
