@@ -12,8 +12,6 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build
-    - name: Checkout
-      uses: actions/checkout@v2
     - name: Deploy to production
       uses: wlixcc/SFTP-Deploy-Action@v1.2.4
       with:
