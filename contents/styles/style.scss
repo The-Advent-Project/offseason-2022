@@ -32,7 +32,7 @@
 	text-decoration-thickness: 2px;
 	text-decoration-style: solid;
 	text-decoration-line: underline;
-	text-underline-offset: 4px;
+	text-underline-offset: 3px;
 	color: #222;
 	font-weight: 700;
 }
@@ -74,12 +74,12 @@ body {
 	}
 }
 
-
 a {
 	text-decoration: none;
-	&.underline {
-		@include link-style;
-	}
+}
+
+a:not(.custom) {
+	@include link-style;
 }
 
 [data-expandable] {

@@ -76,10 +76,10 @@ Don't worry about having every detail of a project mapped out yet, just an idea 
 You sure can! Here’s just a few:
 
 * *[West Xmas](https://2019.adventproject.org/west-xmas/?validate=true)*: a song by Fire Chief Charlie
-* *[Let it Snow](https://adventproject.org/2021/let-it-snow/)*: a game by Miden Wood
+* *[Let it Snow](https://2021.adventproject.org/let-it-snow/?key=advent_sample)*: a game by Miden Wood
 * *[it's nothing really](https://2019.adventproject.org/its-nothing-really/?validate=true)*: a poem by joolz
 * *[Corpsatomic](https://2020.adventproject.org/corpsatomic/?key=advent_sample)*: a series of cards by Amy Carver and 210
-* *[Snowshoes](https://2020.adventproject.org/snowshoes/)*: a short film by Kasey Waas
+* *[Snowshoes](https://2020.adventproject.org/snowshoes/?key=advent_sample)*: a short film by Kasey Waas
 * *[Razzle Dazzle Holiday Spirit](https://2019.adventproject.org/razzle-dazzle-holiday-spirit/?validate=true)*: a radio special by Werner & Markovich
 
 
