@@ -75,7 +75,7 @@ Don't worry about having every detail of a project mapped out yet, just an idea 
 
 You sure can! Here’s just a few:
 
-* *[West Xmas](https://2019.adventproject.org/west-xmas/?unlock=advent_sample)*: a song by Fire Chief Charlie
+* *[West Xmas](https://2019.adventproject.org/west-xmas/?validate=true)*: a song by Fire Chief Charlie
 * *[Let it Snow](https://adventproject.org/2021/let-it-snow/)*: a game by Miden Wood
 * *[it's nothing really](https://2019.adventproject.org/its-nothing-really/?validate=true)*: a poem by joolz
 * *[Corpsatomic](https://2020.adventproject.org/corpsatomic/?key=advent_sample)*: a series of cards by Amy Carver and 210
