@@ -25,7 +25,7 @@ The Advent Project is an online multimedia calendar that unlocks a new piece of 
 </div>
 
 
-
+<!--
 <div id="home-pitch">
 <div class="container">
 <div class="row justify-content-center">
@@ -43,6 +43,7 @@ If selected, you'll turn your idea into reality this fall, and your work will be
 </div>
 </div>
 </div>
+-->
 
 
 
