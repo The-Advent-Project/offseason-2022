@@ -599,3 +599,38 @@ article#home {
 	}	
 	
 }
+
+
+/*
+ * ARTIST INFO
+ */
+ 
+ #artist-info {
+	 margin-bottom: 3rem;
+	 h1 {
+		 font-size: 3rem;
+	 }
+	 * + h2 {
+		 margin-top: 4rem;
+		 margin-bottom: 1rem;
+		 font-size: 2rem;
+		 @include md-width {
+			 font-weight: 300;
+			 font-size: 2.4rem;
+		 }
+	 }
+	 * + h3 {
+		 margin-top: 2.5rem;
+		 margin-bottom: 1rem;
+		 font-weight: 700;
+		 @include md-width {
+			 font-size: 1.67rem;
+		 }
+	 }
+	 aside {
+		 background: linear-gradient(#e9f8ff, #fff);
+		 margin-top: 2rem;
+		 // border-radius: 0.5rem 0.5rem 0 0;
+		 padding: 1rem;
+	 }
+ }
