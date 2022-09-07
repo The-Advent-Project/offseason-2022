@@ -608,7 +608,9 @@ article#home {
  #artist-info {
 	 margin-bottom: 3rem;
 	 h1 {
-		 font-size: 3rem;
+		 @include md-width {
+		 	font-size: 3rem;			 
+		 }
 	 }
 	 * + h2 {
 		 margin-top: 4rem;
