@@ -31,11 +31,11 @@ The Advent Project is an online multimedia calendar that unlocks a new piece of 
 <div class="row justify-content-center">
 <div class="col col-md-11 col-lg-9">
 
-## Artists: Let's make something together.
+/* ## Artists: Let's make something together. */
 
 We're now accepting pitches for the 2022 calendar. If you're an artist of any stripe (and your work can be viewed online), we encourage you to submit a brief idea for a piece of bite-sized, wintry art you could make. 
 
-<a class="submit custom button" href="{{siteBase}}/pitch"><span>★</span> Submit an idea</a>
+<a class="submit custom button" href="{{siteBase}}/pitch"><span>★</span> Submit an idea</a> */
 
 If selected, you'll turn your idea into reality this fall, and your work will be viewed by the hundreds of donors who tune into The Advent Project every December. On top of that, you'll get to vote to choose the charity that will receive all the proceeds from this year's calendar. 
 
@@ -54,11 +54,17 @@ If selected, you'll turn your idea into reality this fall, and your work will be
 
 ## Raising money for causes that matter.
 
-Since our first calendar in 2019, The Advent Project has raised $9,158 for nonprofit organizations dedicated to social and environmental justice.
+Since our first calendar in 2019, The Advent Project has raised $13,794 for nonprofit organizations dedicated to social and environmental justice.
 
 **We've been honored to work with:**
 
 <ul id="previous-recipients">
+<li>
+<a class="custom" href="https://www.midwestaccesscoalition.org/">
+<img src="{{siteBase}}/assets/mac-logo.png" alt="Midwest Access Coalition logo">
+<span>Midwest Access Coalition</span>
+</a>
+</li>
 <li>
 <a class="custom" href="https://ggjalliance.org/our-work/global-wellbeing/">
 <img src="{{siteBase}}/assets/ggj-logo.png" alt="Grassroots Global Justice Alliance logo">
@@ -99,6 +105,15 @@ Since our first calendar in 2019, The Advent Project has raised $9,158 for nonpr
 ## Past Projects
 
 <ul>
+
+<li>
+<a class="custom" id="calendar-2022" href="https://2022.adventproject.org">
+<figure>
+<img src="{{siteBase}}/assets/card-2022-icon.png" alt="The 2022 Advent Project">
+</figure>
+<span>2022 Calendar</span>
+</a>
+</li>
 
 <li>
 <a class="custom" id="calendar-2021" href="https://2021.adventproject.org">
