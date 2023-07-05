@@ -5,7 +5,7 @@
   "main": "./index.js",
   "scripts": {
     "start": "SURFGREEN_ACTION=start_server node ./surfgreen.js",
-    "build": "SURFGREEN_ACTION=build node ./surfgreen.js"
+    "build": "SURFGREEN_ACTION=build node ./surfgreen.js && cp _redirects ./build"
   },
   "author": "Austin Heller",
   "type": "module",
