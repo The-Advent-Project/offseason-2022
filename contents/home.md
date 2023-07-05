@@ -108,9 +108,6 @@ Since our first calendar in 2019, The Advent Project has raised $13,794 for nonp
 
 <li>
 <a class="custom" id="calendar-2022" href="https://2022.adventproject.org">
-<figure>
-<img src="{{siteBase}}/assets/card-2022-icon.png" alt="The 2022 Advent Project">
-</figure>
 <span>2022 Calendar</span>
 </a>
 </li>
