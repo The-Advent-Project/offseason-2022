@@ -1,0 +1,188 @@
+#
+# From 2019-2022, each calendar site lived at the top-level adventproject.org at its time of publication. Once the calendar ended, it was moved to a subdomain (e.g. 2019.adventproject.org).
+# This means that any project URLs out there need to be retroactively redirected to their given year's subdomain. This redirects file handles that.
+#
+
+
+#
+# Apply redirects for top-level URLs
+#
+
+/unlock https://2022.adventproject.org/
+
+/credits https://2022.adventproject.org/about
+
+/terms-and-conditions https://2022.adventproject.org/terms
+
+/privacy-policy https://2022.adventproject.org/privacy-policy
+
+/calendar https://2022.adventproject.org/calendar
+
+/submit /
+
+
+#
+# 2022-specific URLs
+#
+
+/wish-list https://2022.adventproject.org/wish-list/
+
+/frosty-patterns https://2022.adventproject.org/frosty-patterns/
+
+/i-want-a-snowman-with-an-ab-v https://2022.adventproject.org/i-want-a-snowman-with-an-ab-v/
+
+/holiday-home-fragrances https://2022.adventproject.org/holiday-home-fragrances/
+
+/chair https://2022.adventproject.org/chair/
+
+/winter-wonderland https://2022.adventproject.org/winter-wonderland/
+
+/mary-clearly-knew https://2022.adventproject.org/mary-clearly-knew/
+
+/nothing-ever-ends https://2022.adventproject.org/nothing-ever-ends/
+
+/overheard https://2022.adventproject.org/overheard/
+
+/time https://2022.adventproject.org/time/
+
+/winter-constellation-oracle-cards https://2022.adventproject.org/winter-constellation-oracle-cards/
+
+/wows-presents-the-tree-lighting-must-go-on https://2022.adventproject.org/wows-presents-the-tree-lighting-must-go-on/
+
+/a-cozy-cup-of-holiday-asmr https://2022.adventproject.org/a-cozy-cup-of-holiday-asmr/
+
+/2022-corpsatomic https://2022.adventproject.org/2022-corpsatomic/
+
+/5-whiskey-sours https://2022.adventproject.org/5-whiskey-sours/
+
+/sham-eos https://2022.adventproject.org/sham-eos/
+
+/tatterhood https://2022.adventproject.org/tatterhood/
+
+/a-frosty-crostic https://2022.adventproject.org/a-frosty-crostic/
+
+/asymmetrical-ice-crystal-lattices-taking-final-form-on-a-tumbling-descent-through-winter-clouds https://2022.adventproject.org/asymmetrical-ice-crystal-lattices-taking-final-form-on-a-tumbling-descent-through-winter-clouds/
+
+/the-way-the-cookie-crumbles https://2022.adventproject.org/the-way-the-cookie-crumbles/
+
+/the-light https://2022.adventproject.org/the-light/
+
+/tradition-tradition https://2022.adventproject.org/tradition-tradition/
+
+/the-ballad-of-falchior-and-carl https://2022.adventproject.org/the-ballad-of-falchior-and-carl/
+
+/something-special https://2022.adventproject.org/something-special/
+
+
+
+#
+# 2021-specific URLs
+#
+
+/into-december https://2021.adventproject.org/into-december/
+
+/wows-presents-a-very-vaccinated-tree-lighting-presented-by-norquist-health-solutions-with-werner-and-markovich https://2021.adventproject.org/wows-presents-a-very-vaccinated-tree-lighting-presented-by-norquist-health-solutions-with-werner-and-markovich/
+
+/galactic-greetings https://2021.adventproject.org/galactic-greetings/
+
+/christmas-machine https://2021.adventproject.org/christmas-machine/
+
+/christmas-spirit https://2021.adventproject.org/christmas-spirit/
+
+/the-work https://2021.adventproject.org/the-work/
+
+/a-snowballs-chance https://2021.adventproject.org/a-snowballs-chance/
+
+/slow-air-and-jig-a-winters-lament-and-the-snowshoe-hare https://2021.adventproject.org/slow-air-and-jig-a-winters-lament-and-the-snowshoe-hare/
+
+/home-sweet-and-delicious-home https://2021.adventproject.org/home-sweet-and-delicious-home/
+
+/waiting https://2021.adventproject.org/waiting/
+
+/let-it-snow https://2021.adventproject.org/let-it-snow/
+
+/so-do-we-still-have-an-excuse-not-to-travel-or https://2021.adventproject.org/so-do-we-still-have-an-excuse-not-to-travel-or/
+
+/wish-you-were-here https://2021.adventproject.org/wish-you-were-here/
+ 
+/the-zoo https://2021.adventproject.org/the-zoo/
+
+/butter https://2021.adventproject.org/butter/
+
+/reunion https://2021.adventproject.org/reunion/
+
+/diy-fingerless-gloves https://2021.adventproject.org/diy-fingerless-gloves/
+
+/the-coldest-winter https://2021.adventproject.org/the-coldest-winter/
+
+/hallelujah https://2021.adventproject.org/hallelujah/
+
+/the-longest-night https://2021.adventproject.org/the-longest-night/
+
+/the-first-day-of-winter https://2021.adventproject.org/the-first-day-of-winter/
+
+/os-la-doy-de-corazon https://2021.adventproject.org/os-la-doy-de-corazon/
+
+/winter-holiday-memories https://2021.adventproject.org/winter-holiday-memories/
+
+/eyes https://2021.adventproject.org/eyes/
+
+
+#
+# 2020-specific URLs
+#
+
+/srecan-bozic https://2020.adventproject.org/srecan-bozic
+
+/merlot-on-snow https://2020.adventproject.org/merlot-on-snow/
+
+/snowflake-craft https://2020.adventproject.org/snowflake-craft/
+
+/wows-presents-a-very-socially-distanced-tree-lighting-with-werner-and-markovich https://2020.adventproject.org/wows-presents-a-very-socially-distanced-tree-lighting-with-werner-and-markovich/
+
+/corpsatomic https://2020.adventproject.org/corpsatomic/
+
+/december-skin https://2020.adventproject.org/december-skin/
+
+/ho-ho-hiatus https://2020.adventproject.org/ho-ho-hiatus/
+
+/at-least-you-werent-going-anywhere https://2020.adventproject.org/at-least-you-werent-going-anywhere/
+
+/the-security-light https://2020.adventproject.org/the-security-light/
+
+/merry-fright-monstrous-holidays-from-afar https://2020.adventproject.org/merry-fright-monstrous-holidays-from-afar/
+
+/the-holiday-tour https://2020.adventproject.org/the-holiday-tour/
+
+/rimy-rhymes https://2020.adventproject.org/rimy-rhymes/
+
+/walking-through-winter https://2020.adventproject.org/walking-through-winter/
+
+/hotdog-holiday https://2020.adventproject.org/hotdog-holiday/
+
+/the-loathly-lady https://2020.adventproject.org/the-loathly-lady/
+
+/a-very-modet-holiday https://2020.adventproject.org/a-very-modet-holiday/
+
+/maccabees-menorahs-a-hanukkah-microrpg https://2020.adventproject.org/maccabees-menorahs-a-hanukkah-microrpg/
+
+/i-watched-the-leaves-in-the-wind https://2020.adventproject.org/i-watched-the-leaves-in-the-wind/
+
+/great-grandfathers-persistent-cotillion-roast-chicken https://2020.adventproject.org/great-grandfathers-persistent-cotillion-roast-chicken/
+
+/happy-new-year-from-mars https://2020.adventproject.org/happy-new-year-from-mars/
+
+/un-christmas https://2020.adventproject.org/un-christmas/
+
+/snowshoes https://2020.adventproject.org/snowshoes/
+
+/its-december-and-i-have-some-choices-to-make https://2020.adventproject.org/its-december-and-i-have-some-choices-to-make/
+
+/go-far https://2020.adventproject.org/go-far/
+
+
+#
+# 2019-specific URLs
+#
+
+/2019/* https://2019.adventproject.org/:splat
