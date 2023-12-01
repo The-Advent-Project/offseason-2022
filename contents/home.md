@@ -6,8 +6,8 @@ texture: texture-02
 
 <div id="home-intro">
 <div class="container">
-<div class="row justify-content-center justify-content-lg-between">
-<div class="col col-12 col-md-11 col-lg-5">
+<div class="row justify-content-center">
+<div class="col col-12 col-md-11 col-lg-9">
 <h1>
 <span>24 days of art</span> <span>for good.</span>
 </h1>
