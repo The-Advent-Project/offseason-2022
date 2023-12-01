@@ -7,7 +7,7 @@ texture: texture-02
 <div id="home-intro">
 <div class="container">
 <div class="row justify-content-center">
-<div class="col col-12 col-md-11 col-lg-9">
+<div class="col col-md-11 col-lg-9">
 <h1>
 <span>24 days of art</span> <span>for good.</span>
 </h1>
@@ -18,7 +18,9 @@ The Advent Project is an online multimedia calendar that usually unlocks a new p
 
 Want to make something with us? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYjPw4hkdzXMYOz8AIZfvu5jbvY39qclhOaha-vWaAOhjLvA/viewform?usp=sf_link">Check out this week's prompt here.</a>
 
-
+</div>
+</div>
+</div>
 </div>
 
 <!--
