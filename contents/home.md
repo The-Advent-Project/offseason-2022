@@ -12,7 +12,12 @@ texture: texture-02
 <span>24 days of art</span> <span>for good.</span>
 </h1>
 
-The Advent Project is an online multimedia calendar that unlocks a new piece of bite-sized art every day for 24 days in December. All proceeds benefit a worthy cause, selected in collaboration with our artists.
+The Advent Project is an online multimedia calendar that usually unlocks a new piece of bite-sized art every day for 24 days in December. 
+
+**This year, we're doing something a little different.** We will be offering three weekly prompts starting December 1st, and the responses from you<code>&#8212;</code>our community of former keyholders and other friends<code>&#8212;</code>will all be displayed exclusively on <a href="https://instagram.com/adventproj">our Instagram page</a>. 
+
+Want to make something with us? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYjPw4hkdzXMYOz8AIZfvu5jbvY39qclhOaha-vWaAOhjLvA/viewform?usp=sf_link">Check out this week's prompt here.</a>
+
 
 </div>
 
