@@ -14,13 +14,14 @@ texture: texture-02
 
 The Advent Project is an online multimedia calendar that usually unlocks a new piece of bite-sized art every day for 24 days in December. 
 
-**This year, we're doing something a little different.** We will be offering three weekly prompts starting December 1st, and the responses from you<code>&#8212;</code>our community of former keyholders and other friends<code>&#8212;</code>will all be displayed exclusively on <a href="https://instagram.com/adventproj">our Instagram page</a>. 
+**This year, we're doing something a little different.** We will be offering three weekly prompts starting December 1st, and the responses from you&mdash;our community of former keyholders and other friends&mdash;will all be displayed exclusively on <a href="https://instagram.com/adventproj">our Instagram page</a>. 
 
 Want to make something with us? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYjPw4hkdzXMYOz8AIZfvu5jbvY39qclhOaha-vWaAOhjLvA/viewform?usp=sf_link">Check out this week's prompt here.</a>
 
 
 </div>
 
+<!--
 <div class="col col-12 col-md-11 col-lg-6">
 <iframe src="https://player.vimeo.com/video/587029521?h=ab2c6c2c4f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="180" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Meet The Advent Project"></iframe>
 </div>
@@ -28,6 +29,7 @@ Want to make something with us? <a href="https://docs.google.com/forms/d/e/1FAIp
 </div>
 </div>
 </div>
+-->
 
 
 <!--
