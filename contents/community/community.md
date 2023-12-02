@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <title>The Advent Community Project</title>
     <meta charset="UTF-8" />
