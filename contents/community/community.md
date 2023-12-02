@@ -7,5 +7,5 @@ id: community
 
 <div class="container">
 <div class="row justify-content-center">
-_Redirecting to submission form..._
+<i>Redirecting to submission form...</i>
 </div>
