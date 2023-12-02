@@ -14,7 +14,8 @@ texture: texture-02
 
 The Advent Project is an online multimedia calendar that usually unlocks a new piece of bite-sized art every day for 24 days in December. 
 
-## This year, we're doing something a little different.
+<>
+#### This year, we're doing something a little different.
 
 We will be offering three weekly prompts starting December 1st, and the responses from you&mdash;our community of former keyholders and other friends&mdash;will all be displayed exclusively on <a href="https://instagram.com/adventproj">our Instagram page</a>. 
 
