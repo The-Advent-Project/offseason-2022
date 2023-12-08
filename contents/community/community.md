@@ -3,7 +3,7 @@ id: community
 
 ~~~
 
-<meta http-equiv="refresh" content="0; URL=https://docs.google.com/forms/d/e/1FAIpQLSeYjPw4hkdzXMYOz8AIZfvu5jbvY39qclhOaha-vWaAOhjLvA/viewform" />
+<meta http-equiv="refresh" content="0; URL=https://docs.google.com/forms/d/e/1FAIpQLScIWO6YvYLQreGMxtoSLBX2STALKtTVPGkmc5iVCsZnwW-K4Q/viewform" />
 
 <div align="center">
  <body>
