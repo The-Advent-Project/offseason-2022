@@ -9,12 +9,12 @@ texture: texture-02
 <div class="row justify-content-center">
 <div class="col col-md-11 col-lg-9">
 <h1>
-<span>24 days of art</span> <span>for good.</span>
+<span>A December full of art</span> <span>for good.</span>
 </h1>
 
-The Advent Project is an online multimedia calendar that usually unlocks a new piece of bite-sized art every day for 24 days in December. 
+Each winter, The Advent Project brings you brand-new, bite-sized art by a variety of artists working in a variety of media, with all proceeds going to a worthy cause.
 
-**For 2023, we did doing something a little different.** We offered three weekly prompts throughout December, and the compiled responses from you&mdash;our community of former keyholders and other friends&mdash;were all displayed exclusively on <a href="https://instagram.com/adventproj">our Instagram page</a>. 
+More information on December 2024 coming soon! To be the first to know, [sign up for our email list here](https://subscribe.adventproject.org).
 
 </div>
 </div>
