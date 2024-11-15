@@ -16,6 +16,8 @@ Each winter, The Advent Project brings you brand-new, bite-sized art by a variet
 
 More information on December 2024 coming soon! To be the first to know, [sign up for our email list here](https://subscribe.adventproject.org).
 
+[Answer our Community Question here](https://docs.google.com/forms/d/11fXZ2b-daETMvk43iZrhTKF7M0FpvSn9gI5wJUYR2AM/edit).
+
 </div>
 </div>
 </div>
