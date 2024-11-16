@@ -9,7 +9,7 @@ texture: texture-02
 <div class="row justify-content-center">
 <div class="col col-md-11 col-lg-9">
 <h1>
-<span>A December full of art</span> <span>for good.</span>
+A December full of art for&nbsp;good.
 </h1>
 
 Each winter, The Advent Project brings you brand-new, bite-sized art by a variety of artists working in a variety of media, with all proceeds going to a worthy cause.
