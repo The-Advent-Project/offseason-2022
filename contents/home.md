@@ -4,6 +4,10 @@ texture: texture-02
 
 ~~~
 
+<script>
+window.location.replace("https://2024.adventproject.org");
+</script>
+
 <div id="home-intro">
 <div class="container">
 <div class="row justify-content-center">
