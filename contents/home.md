@@ -61,7 +61,7 @@ If selected, you'll turn your idea into reality this fall, and your work will be
 
 ## Raising money for causes that matter.
 
-Since our first calendar in 2019, The Advent Project has raised $13,794 for nonprofit organizations dedicated to social and environmental justice.
+Since our first calendar in 2019, The Advent Project has raised $16,815 for nonprofit organizations dedicated to social and environmental justice.
 
 **We've been honored to work with:**
 
