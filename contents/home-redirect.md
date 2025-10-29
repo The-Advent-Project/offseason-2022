@@ -5,5 +5,5 @@ texture: texture-02
 ~~~
 
 <script>
-window.location.replace("https://2024.adventproject.org");
+window.location.replace("https://2025.adventproject.org");
 </script>
